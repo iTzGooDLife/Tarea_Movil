@@ -116,7 +116,7 @@ class MyApp extends StatelessWidget {
                   ),
                 ),
               ),
-              //Aquí se agrega la tarjeta adicional, nick e id de Valorant.
+              //Aquí se agrega la tarjeta adicional, canal de Twitch.
               Card(
                 margin: EdgeInsets.symmetric(
                   vertical: 10.0,
@@ -128,7 +128,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.green,
                   ),
                   title: Text(
-                    'iTzGooDLife#LAS',
+                    'itzgoodlifee',
                     style: TextStyle(
                       color: Colors.green,
                       fontSize: 18.0,
